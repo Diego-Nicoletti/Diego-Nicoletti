@@ -11,6 +11,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="100px"/>
 
 --------------------------------------------------------------------------
-| Cursos | Certificados |
+
 | -------| ----------- |
 | DotNet | [Certificado]([https://www.dio.me/certificate/42AN9SOC/share](https://web.dio.me/certificates))
