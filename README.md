@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80px"/>
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="80px"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="80px"/>
-  <img src="https://seeklogo.com/images/E/entity-framework-logo-1B5C0C6C2D-seeklogo.com.png" alt="Entity Framework" width="80px"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/entity-framework-282444.png" alt="Entity Framework" width="80px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git" width="80px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="80px"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code 2022" width="80px"/>
