@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80px"/>
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="80px"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="80px"/>
-  <img src="https://www.vectorlogo.zone/logos/entityframework/entityframework-icon.svg" alt="Entity Framework" width="80px"/>
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_efcore.svg" alt="Entity Framework" width="80px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git" width="80px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="80px"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code 2022" width="80px"/>
@@ -41,7 +41,6 @@
 <h2 align="center">💡 Ferramentas e Tecnologias</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="80px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="Azure" width="80px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="80px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="80px"/>
